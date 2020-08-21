@@ -1,0 +1,192 @@
+[
+	{
+		"nama": "Sunkist",
+		"manfaat": [
+			"Untuk menenangkan syaraf, Menangkan Fikiran, Menghilangkan Stress, rasa cemas",
+			"Aromatheraphy untuk mengusir nyamuk",
+			"Produk perawatan kulit untuk mencegah kulit kusam, dan menutrisi kulit."
+		]
+	},
+	{
+		"nama": "Green Tea",
+		"manfaat": [
+			"Wintergreen oil dapat digunakan dalam dosis kecil untuk meningkatkan asam lambung sehingga membantu kinerja pencernaan.\r\nMinyak ini dianggap sebagai diuretik ringan alami untuk meningkatkan produksi urin, yang membantu membersihkan saluran pencernaan dan mengurangi kembung.\r\nWintergreen oil juga memiliki manfaat anti-mual dan efek menenangkan pada lapisan lambung dan usus karena kemampuannya mengurangi kejang otot. Anda dapat menggosokkan campuran wintergreen oil pada perut dan punggung bawah untuk meningkatkan aliran darah dan mencegah kram atau nyeri",
+			"Wintergreen tidak hanya membantu menyegarkan nafas secara alami, namun juga melindungi gusi dan gigi dari infeksi dan rasa sakit.\r\nTambahkan 1-2 tetes pada segelas air dan kumur selama 30-60 detik sebelum dibilas.",
+			"Pernah memakai obat gosok otot penghilang rasa nyeri yang berbau seperti mentol atau mint?\r\nKemungkinannya produk tersebut mengandung peppermint atau wintergreen oil karena keduanya dianggap sebagai “counterirritant.”\r\nWintergreen oil bekerja dengan mengurangi pembengkakan dan iritasi yang terjadi di sekitar otot, jaringan dan sendi yang sakit.\r\nBeberapa tetes yang dipijatkan ke kulit sangat bagus untuk menghilangkan sendi pegal akibat arthritis atau rematik.\r\nMinyak ini juga bermanfaat mengobati sakit otot dan sakit leher kronis, serta menghilangkan rasa sakit punggung bagian bawah",
+			"Daun wintergreen mengandung bahan kimia mirip aspirin yang membantu mengurangi rasa sakit, penyumbatan, pembengkakan dan demam.\r\nUntuk melegakan napas tersumbat, kombinasikan wintergreen oil dengan minyak kelapa. Gosokkan campuran minyak ke dada dan punggung atas.\r\nMinyak esensial lain yang bisa digunakan sebagai campuran untuk mengobati atau mencegah flu adalah eucalyptus, peppermint dan bergamot oil",
+			"Dalam makanan dan minuman komersial, wintergreen digunakan sebagai agen penyedap alami pada makanan tertentu, permen dan teh.\r\nSalah satu cara menggunakannya adalah dengan menambahkan satu hingga dua tetes ke resep smoothie sayuran Anda untuk meningkatkan rasa.\r\nAnda juga dapat membuat teh mint buatan sendiri dengan menambahkan 1-2 tetes wintergreen oil pada air hangat untuk meningkatkan pencernaan dan membantu mengurangi kembung setelah makan besar",
+			"Rasa dan bau mint dapat membantu mengurangi nafsu makan, itulah sebabnya banyak orang merasa nyaman mengunyah permen karet mint setelah makan atau di antara waktu makan.\r\nJika Anda merasa makan berlebihan, cobalah menghirup wintergreen oil atau berkumur dengan air yang telah diberi beberapa tetes wintergreen.\r\nAnda juga dapat mengoleskan beberapa tetes di pelipis, dada atau pakaian",
+			"membunuh bakteri penyebab bau dan iritasi mulut, wintergreen oil adalah tambahan sempurna untuk pasta gigi.\r\nTambahkan satu atau dua tetes pada pasta gigi untuk napas lebih segar dan mulut bebas bakteri.",
+			"meredakan ketegangan otot dan bersantai, campurkan wintergreen oil yang dicampur dengan lavender oil pada air mandi hangat atau dingin untuk merelaksasi otot.",
+			"pewangi rumah yang membantu menutupi busuk bau, gunakan wintergreen oil di sekitar rumah untuk menyegarkan udara dan mensterilkan permukaan kamar mandi dan dapur.\r\nTambahkan beberapa tetes minyak ini dalam air pada botol semprot dan semprotkan ke parabotan rumah, tempat sampah hingga dudukan toilet.\r\nAnda juga dapat mendifusikan wintergreen oil menggunakan diffuser agar kamar mandi memiliki aroma mint segar atau tambahkan beberapa tetes pada sabun cuci pakaian agar lebih ampuh menghilangkan bau.",
+			"penduduk asli Amerika menggunakan daun wintergreen untuk meningkatkan stamina, kewaspadaan dan daya tahan selama aktivitas fisik karena membantu memperbesar kapasitas pernapasan, mengobati nyeri, dan mengurangi penumpukan lendir serta peradangan.\r\nHirup wintergreen dan peppermint oil sebelum melakukan aktivitas fisik untuk meningkatkan konsentrasi.\r\nAnda juga dapat mencampur wintergreen oil dengan carrier oil untuk kemudian mengoleskan ke leher, dada dan pergelangan tangan untuk melawan serangan kantuk atau untuk mengatasi sindrom kelelahan kronis.\r\nUntuk pemulihan setelah olahraga, difusikan wintergreen oil dengan diffuser atau vaporizer untuk membuka saluran pernapasan; meningkatkan aliran darah; atau meredakan nyeri terkait dengan ketegangan otot, sendi atau tulang",
+			"astringent dan antiseptik alami, saat dioleskan ke kulit setelah dicampur dengan carrier oil, wintergreen oil mampu melawan peradangan kulit akibat jerawat dan gangguan lain.\r\nMinyak ini juga membantu membersihkan jerawat karena membunuh kuman di kulit.\r\nTambahkan 1-2 tetes wintergreen oil ke sabun pencuci wajah atau campurkan dengan minyak kelapa atau minyak jojoba untuk meringankan gatal, kemerahan dan kulit bengkak.\r\nGunakan wintergreen oil pada kulit kepala atau rambut untuk menghilangkan bakteri, kelebihan minyak dan ketombe sekaligus membuat rambut beraroma segar",
+			"Gunakan wintergreen di sekitar rumah atau pada tubuh untuk menghilangkan kontaminan berbahaya karena kemampuannya melawan bakteri, virus dan jamur.\r\nAnda dapat menambahkan beberapa tetes wintergreen ke mesin cuci piring atau mesin cuci untuk membunuh bakteri dan jamur penyebab bau, atau menggosokkannya ke kamar mandi"
+		]
+	},
+	{
+		"nama": "Tea Tree",
+		"manfaat": [
+			"Karena kemampuan membunuh bakteri jahat dan pada saat yang sama menenangkan peradangan kulit, tea tree oil adalah bahan sempurna untuk membuat pasta gigi dan obat kumur. Tea tree oil mampu mengurangi perdarahan gusi dan kerusakan gigi.\r\nCampurkan tea tree oil dengan minyak kelapa dan baking soda untuk pasta gigi buatan sendiri yang menakjubkan",
+			"untuk menghilangkan bau badan.\r\nTea tree oil memiliki sifat antimikroba yang menghancurkan bakteri pada kulit yang menyebabkan bau badan.\r\nAnda dapat membuat deodorant dari tea tree oil dengan mencampurnya dengan minyak kelapa dan baking soda.\r\nAnda juga bisa memercikkan tea tree oil dan lemon essential oil pada sepatu dan peralatan olahraga untuk mengusir bau tidak sedap",
+			"Tea tree oil yang dicampur lavender essential oil adalah bahan sempurna untuk mengobati luka dan mencegah infeksi.\r\nPastikan membersihkan luka terlebih dahulu dengan air dan hidrogen peroksida jika perlu, lalu oleskan tea tree oil dan tutup dengan perban untuk membantu melawan infeksi.\r\nSebuah studi yang diterbitkan dalam Journal of Investigative Dermatology menemukan tea tree oil membantu membunuh infeksi MRSA dan Staph",
+			"kemampuannya membunuh parasit dan infeksi jamur, tea tree oil adalah pilihan ideal untuk digunakan pada jamur kuku, kutu air dan kurap.\r\nOleskan tea tree oil murni pada daerah yang terkena dengan menggunakan kapas bersih.\r\nUntuk jamur yang membandel, pertimbangkan mencampur tea tree oil dengan oregano oil.\r\nTea tree oil juga terbukti bermanfaat mengobati dan menghilangkan kutil.\r\nCaranya, oleskan langsung ke daerah yang terkena selama 30 hari, sekali atau dua kali sehari",
+			"Jamur sering menginvasi rumah, sering tanpa disadari oleh penghuni rumah.\r\nPertimbangkan membeli diffuser dan mendifusikan tea tree oil di sekitar rumah untuk membunuh jamur dan bakteri jahat lainnya.\r\nAnda juga bisa menyemprotkan tea tree oil ke tirai shower, mesin cuci, pencuci piring atau toilet untuk membunuh jamur",
+			"pembersih rumah tangga.\r\nTea tree oil memiliki sifat antimikroba kuat yang dapat membunuh bakteri jahat di rumah.\r\nUntuk membuat pembersih rumah, campur tea tree oil dengan air, cuka dan lemon essential oil kemudian gunakan untuk membersihkan peralatan dapur, kamar mandi, toilet dan wastafel",
+			"membantu meringankan semua jenis peradangan kulit, termasuk digunakan sebagai pengobatan eksim alami dan untuk mengurangi psoriasis.\r\nCukup campurkan satu sendok teh minyak kelapa, lima tetes tea tree oil dan lima tetes lavender oil untuk membuat lotion eksim atau sabun untuk badan.",
+			"produk perawatan kulit, terutama sebagai pengobatan untuk jerawat.\r\nSatu studi menemukan tea tree oil sama efektifnya dengan benzoil peroksida, tapi tanpa efek samping negatif seperti kemerahan, kering dan kulit mengelupas.\r\nAnda dapat membuat pencuci wajah untuk jerawat dengan mencampur lima tetes tea tree essential oil murni dengan dua sendok teh madu.\r\nCukup gosokkan pada wajah, diamkan selama satu menit, lalu bilas",
+			"bermanfaat untuk kesehatan rambut dan kulit kepala.\r\nSeperti minyak kelapa, tea tree oil memiliki kemampuan menenangkan kulit kepala kering mengelupas, menghilangkan ketombe dan bahkan dapat digunakan untuk pengobatan kutu rambut. Untuk membuat shampo dari tea tree oil, campurkan beberapa tetes tea tree essential oil dengan gel lidah buaya, santan dan essential oil lainnya seperti lavender oil."
+		]
+	},
+	{
+		"nama": "Eucalyptus",
+		"manfaat": [
+			"Seperti minyak esensial lemon, minyak kayu putih sangat efektif menghilangkan bintik-bintik di karpet, pakaian dan pada dasarnya pada setiap kain yang Anda miliki di rumah. Bahkan minyak kayu putih bisa membersihkan permen karet yang menempel di sepatu",
+			"Minyak kayu putih (eucalyptus oil) memiliki sifat antimikroba dan antiseptik yang efektif untuk mengobati luka, luka bakar, lecet, dan goresan. Minyak kayu putih juga dapat dibuat salep untuk meringankan gigitan dan sengatan serangga. Selain bertindak sebagai pereda nyeri alami, minyak kayu putih mampu menghindarkan luka dari terinfeksi, sehingga mempercepat penyembuhan",
+			"Beri beberapa tetes minyak kayu putih (eucalyptus oil) pada filter penyedot debu dan pengering pakaian untuk menyegarkan dan membersihkannya. Untuk membunuh jamur di rumah, Anda dapat mencampur minyak kayu putih dengan minyak lain seperti minyak cengkeh dan tea tree oil untuk membersihkan udara dan mempertahankan rumah bebas dari jamur",
+			"Minyak esensial kayu putih (eucalyptus essential oil) sangat efektif untuk mengobati masalah pernapasan, seperti asma, bronkitis, PPOK, pneumonia dan bahkan TBC. Menggunakan kayu putih untuk asma terbukti mampu melebarkan pembuluh darah dan memungkinkan lebih banyak oksigen ke paru-paru. \r\nCampurkan minyak kayu putih, minyak peppermint dan minyak kelapa untuk Vapor Rub buatan sendiri, dan oleskan pada dada bagian atas",
+			"Tidak hanya memiliki aroma segar, kayu putih (eucalyptus) juga memiliki sifat anti-mikroba penting. Tambahkan beberapa tetes ke sabun, deterjen, air pel, pembersih toilet dan pembersih jendela untuk menambahkan sifat anti-mikroba pada pembersih rumah Anda",
+			"Apakah Anda sedang berjuang menghilangan sepatu bau atau tempat tidur anjing/kucing yang bau ? Hilangkan bau dengan kain basah yang direndam dalam air yang telah diberi beberapa tetes minyak kayu putih (eucalyptus oil), kemudian keringkan di bawah sinar matahari. Anda juga dapat mencampur minyak kayu putih dengan minyak lemon atau tea tree oil untuk semprotan anti-bau",
+			"menggunakan eucalyptus efektif untuk mengobati sinusitis. Pasien mengalami pemulihan lebih cepat ketika menggunakan minyak kayu putih untuk alergi dan masalah sinus.\r\nPada penelitian ini, peserta mengambil minyak kayu putih secara internal.\r\nDianjurkan juga untuk berkumur dengan larutan minyak kayu putih untuk membersihkan tenggorokan",
+			"Beberapa tetes minyak kayu putih yang dicampur dengan minyak kelapa atau minyak zaitun akan menjadi pelembab yang bagus untuk rambut. Ramuan tersebut terutama ideal untuk menangkal ketombe dan kulit kepala gatal.\r\nKayu putih juga bisa digunakan sebagai obat alami untuk kutu sebagai pengganti perawatan kimia.",
+			"Minyak esensial kayu putih (eucalyptus essential oil) merupakan pembersih yang sangat baik untuk menghilangkan minyak dan kotoran serta dapat meremajakan tangan dan kaki ketika dicampur ke dalam garam mandi. \r\nCukup campurkan garam laut, garam epsom dan minyak kayu putih untuk menghilangkan lemak dan kotoran dari tangan.",
+			"Kayu putih (eucalyptus) bekerja sebagai ekspektoran dan membantu membersihkan tubuh dari racun serta mikroorganisme berbahaya yang membuat tubuh merasa sakit. Salah satu cara paling efektif memanfaatkan kayu putih untuk pilek adalah dengan menggunakan beberapa tetes minyak esensial ke dalam diffuser sebelum tidur sehingga Anda mendapatkan manfaat penyembuhan sepanjang malam.\r\nUntuk situasi yang lebih akut, Anda dapat melakukan mandi uap dengan menuangkan secangkir air mendidih ke dalam mangkuk, lalu campurkan 10 tetes minyak kayu putih (eucalyptus essential oil), meletakkan handuk di atas kepala dan hirup uap dalam-dalam selama 5 – 10 menit"
+		]
+	},
+	{
+		"nama": "Lemongrass",
+		"manfaat": [
+			"Bau ringan dan menenangkan minyak serai (lemongrass oil) dikenal mampu mengurangi kecemasan, iritabilitas, dan insomnia. Karateristik obat penenang dan sifat hipnosis minyak serai membantu meningkatkan durasi dan kualitas tidur. Untuk menghilangkan stres, buat minyak pijat atau lotion pijat dengan menambahkan beberapa tetes minyak serai",
+			"Mengkonsumsi minyak serai atau air rendaman serai memiliki manfaat mengurangi demam. Studi laboratorium menunjukkan air rendaman serai efektif mengurangi gejala demam",
+			"Gunakan minyak serai (lemongrass oil) sebagai penyegar udara alami yang aman. Anda dapat menambahkan minyak serai ke dalam air dan menyemprotkannya atau menggunakan diffuser atau vaporizer. Dengan menambahkan minyak esensial lainnya, seperti lavender atau peppermint, Anda dapat menyesuaikan aroma alami Anda sendiri",
+			"memiliki kemampuan melawan radikal bebas. Salah satu komponen utama minyak serai, citral, dikenal mampu menghambat pertumbuhan sel kanker, terutama pada stadium awal. Aktivitas anti-kanker ini paling terlihat dalam pencegahan kanker kulit.",
+			"kolesterol tinggi yang diberi ekstrak minyak serai mengalami penurunan tingkat kolesterol. Konsumsi minyak serai ditemukan mampu mempertahankan tingkat trigliserida yang sehat dan menurunkan LDL (kolesterol jahat) dalam tubuh. Minyak serai mempromosikan aliran darah di arteri yang lancar dan membantu melindungi Anda terhadap berbagai gangguan jantung",
+			"Minyak serai (lemongrass oil) dapat mengurangi rasa sakit akibat iritasi gas di perut dan usus, dan dapat mengeluarkan racun karena meningkatkan frekuensi buang air kecil. Serai (lemongrass) membantu mencegah gangguan pencernaan, seperti maag lambung, karena membantu merangsang fungsi usus dan memperbaiki pencernaan",
+			"Sifat anti-inflamasi minyak serai berasal dari kandungan limonene yang dimilikinya. Peradangan ditemukan terkait dengan hampir setiap kondisi kesehatan dan memainkan peran dalam penyakit alergi seperti asma, arthritis, penyakit Crohn, penyakit Alzheimer, kanker, penyakit jantung, diabetes, tekanan darah tinggi, kolesterol tinggi and Penyakit Parkinson",
+			"Minyak serai mampu meningkatkan sistem kekebalan tubuh dengan membiarkan nutrisi untuk diserap ke dalam tubuh. Minyak ini dianggap vital dalam memulihkan sistem kekebalan tubuh dan membantu fungsi organ-organ tubuh",
+			"Efek menenangkan minyak serai dapat meringankan rasa sakit, tekanan, atau ketegangan yang memicu sakit kepala. Pijatkan minyak serai yang telah diencerkan pada pelipis dan hirup aroma lemon yang menenangkan",
+			"Kandungan citral dan limonene dalam minyak serai dapat membunuh atau menghambat pertumbuhan bakteri dan jamur. Minyak ini efektif membantu menghindarkan berbagai infeksi seperti kurap, kutu air, atau berbagai jenis jamur. Studi pada tikus membuktikan minyak esensial serai (lemongrass essential oil) adalah agen antijamur dan antibakteri yang efektif",
+			"Minum teh serai dikenal membantu meringankan kram menstruasi; serta meringankan mual dan lekas marah. Minum dua cangkir teh serai sehari untuk menghilangkan rasa sakit yang terkait dengan menstruasi.",
+			"Lemongrass telah dikenal selama berabad-abad sebagai obat untuk gangguan perut, gastritis, dan tukak lambung. Menambahkan minyak serai atau air serai pada teh atau sup dapat mengobati sakit perut, mual dan diare",
+			"Manfaat minyak serai (lemongrass oil) termasuk mengurangi rasa sakit. Minyak ini membantu meningkatkan sirkulasi darah, dan karena itu dapat meringankan kejang otot, sakit punggung, keseleo, dan kram. Gosokkan minyak sereh yang telah diencerkan ke daerah tubuh yang sakit atau nyeri."
+		]
+	},
+	{
+		"nama": "Lemon",
+		"manfaat": [
+			"Mendifusikan lemon essential oil di udara dapat meningkatkan suasana hati dan melawan depresi.",
+			"Minyak lemon dapat mendukung drainase limfatik dan membantu Anda mengatasi deman dengan cepat. Campur minyak lemon dengan minyak kelapa dan oleskan pada leher",
+			"Kain yang dibasahi dengan minyak lemon akan membantu menghilangkan noda dan kotoran pada perak dan perhiasan! Minyak lemon juga bisa digunakan untuk memoles kayu menjadi mengkilap",
+			"menempelkan bekas permen karet ke berbagai tempat. Bersihkan noda permen karet di tembok atau perabot menggunakan lemon oil",
+			"Menambahkan 2 tetes minyak lemon di air minum 3x sehari dapat mendukung metabolisme dan menurunkan berat badan",
+			"Tambahkan 40 tetes lemon oil dan 20 tetes tea tree oil ke dalam botol semprot berisi 500 ml air murni (dan sedikit cuka putih) untuk membuat pembersih alami",
+			"Lemon essential oil bisa digunakan untuk memperbaiki rona kulit dan membuat kulit terasa lembut serta lentur. Lemon oil dianggap mampu menutrisi kulit. Anda dapat mencampur lemon oil dengan baking soda dan madu untuk pembersih wajah agar bebas dari jerawat",
+			"cukup tambahkan beberapa tetes minyak esensial lemon agar pakaian tidak berbau apek",
+			"Campur lemon essential oil, baking soda dan minyak kelapa, kemudian gosokkan pada gigi selama 2 menit untuk membantu memutihkan gigi secara alami",
+			"Tangan menjadi kotor dan berminyak sehabis bekerja memperbaiki motor atau mobil? Kesulitan menghilangkan kotoran dengan sabun biasa? Jangan khawatir, cukup tambahkan beberapa tetes lemon essential oil dengan sabun dan buat tangan Anda bersih "
+		]
+	},
+	{
+		"nama": "Rose Flower",
+		"manfaat": [
+			"Kelompok pertama menjalani sesi aromaterapi dengan larutan minyak mawar/lavender 2,5% selama 15 menit dua kali seminggu selama empat minggu. Sedangkan kelompok kedua adalah kelompok kontrol.\r\nHasilnya luar biasa. Tidak hanya minyak mawar menurunkan skor depresi postnatal, tetapi juga terjadi penurunan dalam gangguan kecemasan umum!\r\nCara menggunakan minyak mawar untuk depresi: ambil lima tetes minyak mawar dan lima tetes lavender dan masukkan ke diffuser sebelum tidur.",
+			"menderita jerawat, cobalah mengoleskan satu tetes minyak esensial mawar pada jerawat tiga kali sehari.\r\nPastikan Anda menggunakan kapas steril. Jika daya antimikroba terlalu kuat, encerkan minyak mawar dengan sedikit minyak kelapa.\r\nAlasan lain menggunakan minyak esensial mawar untuk kesehatan kulit adalah karena kemampuan luar biasa untuk meningkatkan permeabilitas kulit!\r\nIlmuwan Jerman menjelaskan dalam artikel tahun 2010, salah satu aspek paling menarik dari minyak esensial mawar adalah ketika ditambahkan ke produk kecantikan dan produk kulit, minyak mawar membuka kulit sehingga mampu menyerap lebih banyak nutrisi"
+		]
+	},
+	{
+		"nama": "Coffee",
+		"manfaat": [
+			"mengatasi keluhan mata bengkak, Anda bisa manfaatkan minyak coffee oil  untuk membantu mengatasi pengendapan darah di bawah kulit mata dan melebarkan pembuluh darah sehingga melancarkan aliran darah dari dan menuju mata. Dengan demikian pembengkakan pada mata bisa diatasi dan mata jadi tampak lebih segar.\r\nCaranya: Dengan mengkompres mata dengan coffee oil secukupnya",
+			"Membantu pertumbuhan dan mengkilapkan rambut ",
+			"Menghilangkan lingkaran hitam pada mata alias mata panda ",
+			"Terbukti kulit yang mengalami efek iritasi karena terbakar paparan sinar matahari dan kulit yang mengalami masalah peradangan karena jerawat ternyata bisa membaik setelah mendapatkan perawatan kulit dengan coffee oil.\r\nCaranya: Oleskan coffee oil pada bagian kulit yang berjerawat",
+			"memiliki khasiat untuk membantu menyegarkan kembali dan memperbaiki tekstur kulit. Kafein memiliki kemampuan menyerap air menuju permukaan kulit sehingga kulit akan tampak lebih lembab. Kulit yang mendapat suplai air biasanya lebih tahan dari efek-efek yang menyebabkan penuaan dini. Apalagi dalam kopi terdapat kandungan anti radikal bebas yang baik untuk membantu mengangkat toksin penyebab penuaan.\r\nCaranya: oleskan coffee oil secukupnya pada kulit yang bersih.",
+			"Banyak wanita mengeluhkan masalah selulit yang muncul pada beberapa area tubuh seperti lingkaran paha, panggul, dan perut mereka. Kadang kondisi menjadi lebih buruk setelah wanita melahirkan. Dan kabar baiknya ternyata kopi juga membantu Anda mengatasi selulit Coffee Oil bekerja sebagai pelumas sehingga memudahkan proses pemijatan sekaligus membantu menjaga kelembaban kulit yang biasanya muncul karena efek diuretik tadi.\r\nCaranya: Cukup oleskan secukupnya coffee pada kulit yang berselulit, dan pijat pelan."
+		]
+	},
+	{
+		"nama": "Strawberry",
+		"manfaat": [
+			"perawatan kulit minyak Strawberry mengandung asam salsilat dan asam alphaahidroxic yang dapat mengangkat penumpukan sel kulit mati. ",
+			"Minyak Strawberry mengandung vitamin C yang berguna untuk mencerahkan kulit secara alami. Bisa dicampurkan pada cream wajah atau lotion. Juga mampu mengatasi penuaan dini , mengencangkan kulit, hingga halus terhindar dari kerutan.",
+			"Teteskan minyaknya pada tungku aromaterapi (oil burner),diffuser, atau potpouri akan memberikan efek mengharumkan, dan menyegarkan. Badan yang lesu menjadi bergairah kembali, bertambah spontanitas dan vitalitas",
+			"Campurkan minyaknya pada carrier oil lalu pijatlah perlahan akan merilekskan otot dan menyegarkan",
+			"Antioksidan dan vitamin yang ada di dalam minyak ini mampu mengatasi masalah kulit berminyak dan mencegah jerawat",
+			"Aroma Strawberry yang manis dan sedikit asam memberikan efek lapar sehingga memacu hasrat untuk makan dan minum. Cocok untuk mereka yang ingin menggemukkan badan"
+		]
+	},
+	{
+		"nama": "Kasturi",
+		"manfaat": [
+			"digunakan sebagai analgesik atau pereda nyeri. Minyak ini memiliki jenis nutrisi tertentu yang meredakan rasa sakit pada tubuh, khususnya pada bagian-bagian persendian. Kasturi bisa mengurangi bengkak yang biasanya disebabkan oleh luka trauma hingga tumor.",
+			"memperbaiki mood, namun juga bisa meningkatkan kesehatan fisik dan mental. Dalam hal ini, minyak kasturi sering digunakan sebagai bahan penting dalam pembuatan aromaterapi. Minyak kasturi mampu menenangkan saraf-saraf yang tegang dan menstimulasi medula, sehingga mencegah terjadinya pingsan secara tiba-tiba karena tegang.",
+			"Guratan yang sering terlihat pada daerah berlemak di tubuh ini bisa terjadi pada siapapun. Sulitnya menghapus stretch marks akan teratasi jika Anda menggunakan minyak kasturi. Sebab, vitamin A dalam minyak ini bertugas memperbaiki sel kulit yang rusak",
+			"mengalami luka karena gigitan hewan yang menular atau berbahaya, maka minyak kasturi dapat digunakan sebagai antiseptik yang mencegah dampak bahayanya. Gigitan ular, luka robek dalam, atau sekadar gatal-gatal bisa dirawat dengan menggunakan minyak kasturi.",
+			"merangsang pertumbuhan sel kulit, minyak kasturi juga mampu memformulasikan jaringan baru untuk mengganti jaringan kulit lama yang sudah rusak. Hal ini karena minyak kasturi mengandung Linoleic acid (omega 6) dan Alpha-linoleic acid (omega 3). Dua kandungan tersebut membuat minyak kasturi bermanfaat untuk menghilangkan keriput apabila digunakan secara teratur. Tak mengherankan pula, jika minyak kasturi banyak digunakan dalam produk anti-aging.",
+			"ampuh menjaga kelembapan kulit, sehingga tetap terhidrasi dengan baik dan terhindar dari masalah kering. Hasilnya, penggunaan minyak kasturi secara teratur pada kulit bisa menimbulkan peremajaan kulit dan membuatnya tetap kencang serta terawat. Khasiat Ini mungkin dihadirkan karena minyak kasturi mengandung salah satu essential fatty acids, yaitu omega 6 yang berfungsi menjaga keseimbangan kapasitas air di lapisan kulit",
+			"masalah kulit yang umum dialami orang, sebut saja jerawat, eksim, psoriasis, dsb. Dengan menggunakan produk kebersihan dan kecantikan tubuh yang mengandung minyak kasturi, masalah-masalah kulit ini dapat teratasi. Sebab, minyak kasturi mengandung senyawa kimia alami yang disebut retinol. Jika diaplikasikan pada bagian kulit yang bermasalah, kandungan retinol dalam minyak kasturi akan mempercepat regenerasi sel dan memulihkan dampak akibat masalah kulit tersebut."
+		]
+	},
+	{
+		"nama": "Jasmine",
+		"manfaat": [
+			"Meringankan depresi dan kecemasan",
+			"Mencegah atau Mengobati Gejala PMS",
+			"Memberi ketenangan dan konsentrasi",
+			"Mengurangi infeksi saluran pernapasan. ",
+			"Meringankan Gejala Pasca Kehamilan",
+			"Meningkatkan Kekebalan dan Memerangi Infeksi",
+			"Meningkatkan Konsentrasi",
+			"Mempromosikan Kulit Sehat dan Mengurangi Noda pada Kulit",
+			"Bahan untuk Membuat Minyak Pijat yang Menenangkan",
+			"Meningkatkan Gairah",
+			"Memperbaiki kualitas tidur",
+			"Mengurangi Gejala Menopause",
+			"Parfum Alami"
+		]
+	},
+	{
+		"nama": "Lavender",
+		"manfaat": [
+			"Meringankan depresi dan kecemasan",
+			"Memperbaiki kualitas tidur",
+			"Parfum Alami",
+			"Menyembuhkan luka dan luka bakar",
+			"Memperlambat penuaan dengan antioksidan kuat.",
+			"Mengembalikan warna kulit dan mengurangi jerawat",
+			"Meringankan eksim dan psoriasis."
+		]
+	},
+	{
+		"nama": "Bergamot",
+		"manfaat": [
+			"dapat merangsang hormon, seperti dopamin dan serotonin, yang menciptakan perasaan sedasi dan relaksasi",
+			"Mengurangi Saluran Pernapasan yang Tersumbat",
+			"Perlindungan dari Tetanus",
+			"Mencegah Cacingan",
+			"Perlindungan bakteri di rongga mulut dan gigi dengan berkumur",
+			"Menurunkan suhu badan (demam) lewat berkeringat, mengurangi stres dan merangsang sekresi hormon.",
+			"Deodorant untuk mencegah bau badan",
+			"membantu menjaga tingkat metabolisme yang tepat dengan merangsang sekresi hormon, cairan pencernaan, empedu dan insulin.\r\nMinyak ini membantu sistem pencernaan dan memungkinkan penyerapan nutrisi, sekaligus mengasimilasi pemecahan gula dan mampu menurunkan tekanan darah.",
+			"membuat pemecahan makanan dalam saluran pencernaan menjadi lebih mudah. Minyak ini juga merangsang kontraksi otot di usus, mempercepat proses pencernaan dengan memperlancar pembuangan limbah melalui usus setelah nutrisi diserap.",
+			"meminimalkan tampilan bekas luka dan tanda lainnya pada kulit. Bekas luka pada kulit yang bisa disamarkan dengan minyak bergamot antara lain akibat infeksi jerawat atau iritasi",
+			"mengurangi keluhan keseleo, nyeri otot dan sakit kepala.",
+			"digunakan dalam sabun kulit karena menghambat pertumbuhan kuman, jamur dan virus. Ketika menerapkan minyak ini ke kulit atau rambut, risiko infeksi bisa secara signifikan dikurangi.\r\nMinyak bergamot dapat menyembuhkan infeksi pada usus, ginjal, usus besar dan saluran kemih."
+		]
+	},
+	{
+		"nama": "Citronella",
+		"manfaat": [
+			"bermanfaat menenangkan pikiran dan berkontribusi mengurangi stres serta membuat tidur menjadi lebih nyenyak. Anda bisa mendifusikan di rumah, memijatkan ke kulit atau menyemprotkannya ke sprei tempat tidur.",
+			"mengurangi peradangan dan membantu detoksifikasi hati, perut dan usus. Senyawa tertentu dalam citronella mencegah pertumbuhan bakteri dalam saluran pencernaan dan mempercepat penyembuhan penyakit serta luka.\r\nMinyak ini juga mampu membunuh organisme (parasit atau cacing) dalam usus kecil dan besar. Anda bisa menelan citronella oil dalam jumlah kecil untuk memberi perlindungan terhadap leaky gut syndrome (sindrom usus bocor), penyakit autoimun, infeksi pada usus, saluran kencing, kandung kemih, saluran pencernaan, prostat, dan ginjal.",
+			"pembersih sekaligus kondisioner rambut. Minyak ini dapat membantu menghilangkan kelebihan minyak pada rambut sekaligus memerangi ketombe dan membuat rambut bersinar.",
+			"memiliki sifat antijamur dan sifat antibakteri kuat sehingga membantu membersihkan dapur, kamar mandi atau permukaan rumah tangga tanpa perlu bahan kimia.\r\nSenyawa dalam minyak ini, termasuk methyl isoeugenol, efektif mengurangi patogen dari makanan dan bahkan bakteri berbahaya.",
+			"Mencegah gigitan serangga, penelitian menunjukkan citronella oil juga bisa membantu menyembuhkan dermatitis, mengobati eksim, memperlambat penuaan kulit, menyembuhkan bekas gigitan serangga dan mengobati infeksi jamur pada kulit.Minyak ini juga mampu mempercepat penyembuhan luka, dan mungkin bermanfaat menanggulangi jerawat, menyingkirkan kutil, mengobati bisul dan menyembuhkan bintik-bintik pada kulit terkait usia.\r\nMenggunakan citronella oil juga dapat membuat kulit tampak muda dan halus dan bahkan mengurangi kerusakan akibat paparan sinar matahari. Kombinasikan sejumlah kecil citronella oil dengan minyak kelapa dan pijatkan ke wajah, atau tambahkan 1-2 tetes pada air mandi atau air pencuci wajah.",
+			"memiliki aroma bersih dan segar, mirip aroma lemon atau lemongrass, citronella merupakan bahan yang umum ditemukan dalam sabun, lilin, dupa, parfum dan kosmetik.\r\nAnda dapat menghilangkan bau di rumah, pencuci piring, kulkas dan mesin cuci dengan mendifusikan atau menyemprotkan citronella oil yang telah dilarutkan dengan air.",
+			"membantu meningkatkan aliran darah sehingga menurunkan kejang otot, nyeri, kram dan pembengkakan.\r\nCoba pijatkan citronella oil yang telah dicampur dengan carrier oil ke otot yang sakit atau ke daerah perut untuk meredakan kram PMS.",
+			"Memiliki sifat sebagai agen diaphoretic (merangsang keringat) dan agen diuretic (merangsang berkemih), citronella dapat membantu upaya mengeluarkan racun dari tubuh.\r\nMinum satu sampai dua tetes citronella essential oil murni dengan madu dan lemon serta air hangat dapat meningkatkan peluruhan kelebihan lemak, sodium, asam urat dan racun.",
+			"sifat antioksidan dan kemampuan untuk meningkatkan aliran darah, citronella sering digunakan sebagai pengobatan arthritis alami, khususnya untuk mengurangi nyeri yang terkait dengan masalah ortopedi seperti osteoarthritis dan rheumatoid arthritis.\r\nKombinasikan 2-3 tetes citronella oil dengan carrier oil seperti minyak kelapa dan pijatkan ke sendi dan otot yang bengkak, atau berendam dalam air citronella hangat untuk mengurangi pembengkakan dan nyeri.",
+			"mampu mengusir nyamuk Aedes aegypti, yang menyebarkan “demam berdarah.” mengoleskan citronella oil setiap 30-60 menit untuk mempertahankan efektivitasnya sebagai pengusir serangga. dapat mengkombinasikan citronella oil dengan beberapa tetes minyak kelapa dan mengoleskannya ke tubuh seperti lotion.\r\nCara lain, larutkan beberapa tetes citronella oil dalam botol semport berisi air dan gunakan untuk menyemprot kulit atau pakaian Anda. Menerapkan citronella oil langsung ke tubuh dianggap lebih efektif untuk memerangi serangga dibanding dalam bentuk lilin aromaterapi."
+		]
+	}
+]
